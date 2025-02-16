@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siyabonga Nkosi Daka</h1>
 <h3 align="center">A passionate Software developer From Zambia based in Morocco</h3>
 
-<p align="left"> ![](https://github-profile-trophy.vercel.app/?username=siyabongank&theme=radical&no-frame=true&no-bg=true&margin-w=4)</a> </p>
+<p align="left"> <a herf="https://github-profile-trophy.vercel.app/?username=siyabongank&theme=radical&no-frame=true&no-bg=true&margin-w=4"</a> </p>
 
 - 🔭 I’m currently working on **a flutter apple tv clone**
 
